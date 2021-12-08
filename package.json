@@ -1,0 +1,22 @@
+{
+    "name": "guisaldanha-light",
+    "displayName": "GuiSaldanha Light",
+    "description": "Tema light criado por Guilherme Saldanha",
+    "keywords": ["tema", "theme", "light", "guisaldanha"],
+    "publisher": "Guilherme Saldanha",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "license": "MIT",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "GuiSaldanha Light",
+            "uiTheme": "vs",
+            "path": "./themes/color-theme.json"
+        }]
+    }
+}
