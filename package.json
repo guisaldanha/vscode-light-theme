@@ -8,6 +8,10 @@
     "engines": {
         "vscode": "^1.62.0"
     },
+    "galleryBanner": {
+        "color": "#f8f8f8",
+        "theme": "light"
+    },
     "license": "MIT",
     "categories": [
         "Themes"
@@ -18,5 +22,14 @@
             "uiTheme": "vs",
             "path": "./themes/color-theme.json"
         }]
+    },
+    "homepage": "https://github.com/guisaldanha/vscode-light-theme/blob/main/README.md",
+    "bugs": {
+        "url": "https://github.com/guisaldanha/vscode-light-theme/issues",
+        "email": "guisaldanha@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/guisaldanha/vscode-light-theme.git"
     }
 }
