@@ -3,7 +3,7 @@
     "displayName": "GuiSaldanha Light",
     "description": "Tema light criado por Guilherme Saldanha",
     "keywords": ["tema", "theme", "light", "guisaldanha"],
-    "publisher": "Guilherme Saldanha",
+    "publisher": "guisaldanha",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.62.0"
