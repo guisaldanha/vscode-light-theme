@@ -1299,13 +1299,6 @@
 			}
 		},
 		{
-			"scope": ["support.function.twig"],
-			"settings": {
-				"foreground": "#d88761",
-				"fontStyle": "italic"
-			}
-		},
-		{
 			"scope": [
 				"variable.other.property.twig",
 			],
@@ -1330,6 +1323,31 @@
 			"settings": {
 				"foreground": "#0000CD",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.logical.twig"
+			],
+			"settings": {
+				"foreground": "#91008a"
+			}
+		},
+		{
+			"scope": [
+				"string.quoted.double.twig"
+			],
+			"settings": {
+				"foreground": "#ff6600"
+			}
+		},
+		{
+			"scope": [
+				"support.function.twig"
+			],
+			"settings": {
+				"foreground": "#3987b8",
+				"fontStyle": ""
 			}
 		},
 		{
