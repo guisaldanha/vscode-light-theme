@@ -1523,6 +1523,71 @@
             "settings": {
                 "foreground": "#830e0e"
             }
+        },
+        {
+            "scope": ["keyword.command.batchfile"],
+            "settings": {
+                "foreground": "#0000ff"
+                // "foreground": "#9a2cba"
+            }
+        },
+        {
+            "scope": ["keyword.operator.at.batchfile"],
+            "settings": {
+                "foreground": "#0066ff"
+            }
+        },
+        {
+            "scope": ["variable.other.readwrite.batchfile"],
+            "settings": {
+                "foreground": "#3987b8"
+            }
+        },
+        {
+            "scope": ["keyword.operator.assignment.batchfile"],
+            "settings": {
+                "foreground": "#f036c1"
+            }
+        },
+        {
+            "scope": ["variable.parameter.batchfile"],
+            "settings": {
+                "foreground": "#f0701f"
+            }
+        },
+        {
+            "scope": ["keyword.control.conditional.batchfile"],
+            "settings": {
+                "foreground": "#159428",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": ["keyword.other.special-method.batchfile"],
+            "settings": {
+                "foreground": "#9A2CBA"
+                // "foreground": "#9a2cba"
+            }
+        },
+        {
+            "scope": ["string.quoted.double.batchfile"],
+            "settings": {
+                "foreground": "#c92222"
+            }
+        },
+        {
+            "scope": ["keyword.control.statement.batchfile"],
+            "settings": {
+                "foreground": "#b04d9a"
+            }
+        },
+        {
+            "scope": [
+                "string.quoted.double.batchfile variable.other.readwrite.batchfile"
+            ],
+            "settings": {
+                "foreground": "#ff0000"
+            }
         }
     ]
 }
