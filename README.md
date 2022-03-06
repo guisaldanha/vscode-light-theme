@@ -2,6 +2,6 @@
 
 ## Extensões abrangidas
 
-Este tema tem cores para as liguagens PHP, HTML, JavaScript, CSS, arquivos MD, JSON, SQL, INI, M3U, Configurações do Apache (apacheconf) e Twig
+Este tema tem cores para as liguagens Python, PHP, HTML, JavaScript, CSS, arquivos MD, JSON, SQL, INI, M3U, Configurações do Apache (apacheconf), Twig, natch files
 
-**Divirta-se!**
+Vale a pena instalar e dar uma conferida.

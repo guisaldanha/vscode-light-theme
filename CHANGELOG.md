@@ -1,9 +1,19 @@
-# Change Log
+# Changelog
 
-All notable changes to the "guisaldanha-light" extension will be documented in this file.
+Todas as mudanças significativas neste projeto serão documentadas neste arquivo.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.9] 2022-03-05
 
-## [Unreleased]
+### Adicionado
 
-- Initial release
+- Cores para a Batch files (.bat e .cmd)
+
+## [1.0.8] 2022-03-05
+
+### Adicionado
+
+- Cores para a linguagem Python
+
+### Alterado
+
+- Alteração no background do terminal e cores da extensão .twig
